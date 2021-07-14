@@ -75,5 +75,10 @@ Run these shell commands in mongo shell:
 Write code to
 
 - create a database of your country name.
-- check list of databases to see newly created database.
+// use India   (switched to database name India)
+- check list of databases to see newly created database.   
+//admin   0.000GB
+config  0.000GB
+local   0.000GB
 - check which database you are currently connected to ?
+India
