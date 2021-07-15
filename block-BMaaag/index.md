@@ -14,7 +14,9 @@ Write code to:-
 - insert multiple document using insertMany command
 //  db.himalayas.insertMany({name: 'Dhauldhar range', height: '4000 mtrs'},{name: 'Kanchan Junga', height: '8000 mtrs'})
 - find all documents from mountains
+ // db.himalayas.find() =>  Find all documents inside database
 
-// show collections
+ 
+
 - find a single document using name
-// 
+//    //db.himalays.find({name: 'Dhauldhar range'}) => Find document contains name: 'Dhauldhar range'
