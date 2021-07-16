@@ -4,6 +4,7 @@ writeCode
 
 ```
 mongoimport --host <host_name> --username <user_name> --password <password> --db
+// host
 DB_NAME --collection COLLECTION_NAME --file cities.json(file location) --jsonArray
 (an array of json data)
 ```
